@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/gralloc.clovertrail.so:system/vendor/lib/hw/gralloc.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsepdrm.so:system/vendor/lib/libsepdrm.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libcorkscrew.so:system/vendor/lib/libcorkscrew.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/audio.primary.clovertrail.so:system/vendor/lib/hw/audio.primary.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
