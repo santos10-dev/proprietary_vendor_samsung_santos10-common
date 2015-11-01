@@ -49,5 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/topazsc_fw.bin:system/vendor/firmware/topazsc_fw.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_sta.bin_b2:system/vendor/firmware/bcmdhd_sta.bin_b2 \
+    vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_apsta.bin_b2:system/vendor/firmware/bcmdhd_apsta.bin_b2 \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcm4334.hcd:system/vendor/firmware/bcm4334.hcd
