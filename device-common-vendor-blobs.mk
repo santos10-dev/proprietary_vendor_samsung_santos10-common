@@ -35,9 +35,23 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libwsbm.so:system/vendor/lib/libwsbm.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/hw/audio.primary.clovertrail.so:system/vendor/lib/hw/audio.primary.clovertrail.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungearcare.so:system/vendor/lib/libsamsungearcare.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungRecord.so:system/vendor/lib/libsamsungRecord.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungRecord_ns.so:system/vendor/lib/libsamsungRecord_ns.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungSoundbooster.so:system/vendor/lib/libsamsungSoundbooster.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungEP_V02014.so:system/vendor/lib/lib_SamsungEP_V02014.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungRecNR_V02023d.so:system/vendor/lib/lib_SamsungRecNR_V02023d.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungRec_V02003.so:system/vendor/lib/lib_SamsungRec_V02003.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_Resampler_V01004b.so:system/vendor/lib/lib_Samsung_Resampler_V01004b.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so:system/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsecril-client.so:system/vendor/lib/libsecril-client.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/sensors.santos10.so:system/vendor/lib/hw/sensors.santos10.so \
+    vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_sta.bin_b2:system/vendor/firmware/bcmdhd_sta.bin_b2 \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcm4334.hcd:system/vendor/firmware/bcm4334.hcd
