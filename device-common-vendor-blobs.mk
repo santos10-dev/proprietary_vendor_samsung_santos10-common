@@ -34,4 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libva-android.so:system/vendor/lib/libva-android.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libwsbm.so:system/vendor/lib/libwsbm.so
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libwsbm.so:system/vendor/lib/libwsbm.so \
+    vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
+    vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/hw/sensors.santos10.so:system/vendor/lib/hw/sensors.santos10.so
