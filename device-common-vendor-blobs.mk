@@ -39,4 +39,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/sensors.santos10.so:system/vendor/lib/hw/sensors.santos10.so \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_sta.bin_b2:system/vendor/firmware/bcmdhd_sta.bin_b2 \
-    vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt
+    vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
+    vendor/samsung/santos10-common/proprietary/vendor/firmware/bcm4334.hcd:system/vendor/firmware/bcm4334.hcd
