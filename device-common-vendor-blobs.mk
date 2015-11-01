@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libva-android.so:system/vendor/lib/libva-android.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libwsbm.so:system/vendor/lib/libwsbm.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/audio.primary.clovertrail.so:system/vendor/lib/hw/audio.primary.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungearcare.so:system/vendor/lib/libsamsungearcare.so \
