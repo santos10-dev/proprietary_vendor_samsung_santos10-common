@@ -43,10 +43,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so:system/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsecril-client.so:system/vendor/lib/libsecril-client.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
+    vendor/samsung/santos10-common/proprietary/lib/pvr_drv_video.so:system/lib/pvr_drv_video.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/sensors.santos10.so:system/vendor/lib/hw/sensors.santos10.so \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
+    vendor/samsung/santos10-common/proprietary/vendor/firmware/topazsc_fw.bin:system/vendor/firmware/topazsc_fw.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_sta.bin_b2:system/vendor/firmware/bcmdhd_sta.bin_b2 \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcm4334.hcd:system/vendor/firmware/bcm4334.hcd
