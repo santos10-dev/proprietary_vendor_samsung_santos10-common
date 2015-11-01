@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/gralloc.clovertrail.so:system/vendor/lib/hw/gralloc.clovertrail.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/hw/memtrack.clovertrail.so:system/vendor/lib/hw/memtrack.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsepdrm.so:system/vendor/lib/libsepdrm.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
