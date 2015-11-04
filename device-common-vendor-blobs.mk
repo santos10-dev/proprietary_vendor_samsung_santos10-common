@@ -31,6 +31,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsepdrm.so:system/vendor/lib/libsepdrm.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libia_aiq.so:system/vendor/lib/libia_aiq.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libia_aiq_cp.so:system/vendor/lib/libia_aiq_cp.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libia_mkn.so:system/vendor/lib/libia_mkn.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libia_nvm.so:system/vendor/lib/libia_nvm.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libmfldadvci.so:system/vendor/lib/libmfldadvci.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libtbd.so:system/vendor/lib/libtbd.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/audio.primary.clovertrail.so:system/vendor/lib/hw/audio.primary.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungearcare.so:system/vendor/lib/libsamsungearcare.so \
@@ -51,8 +58,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsepkeymaster.so:system/vendor/lib/libsepkeymaster.so \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/topazsc_fw.bin:system/vendor/firmware/topazsc_fw.bin \
-    vendor/samsung/santos10-common/proprietary/vendor/firmware/isp_fr.bin:system/vendor/firmware/isp_fr.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/shisp_css15.bin:system/vendor/firmware/shisp_css15.bin \
+    vendor/samsung/santos10-common/proprietary/etc/firmware/isp_fr.bin:system/etc/firmware/isp_fr.bin \
+    vendor/samsung/santos10-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
+    vendor/samsung/santos10-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_sta.bin_b2:system/vendor/firmware/bcmdhd_sta.bin_b2 \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/bcmdhd_apsta.bin_b2:system/vendor/firmware/bcmdhd_apsta.bin_b2 \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
