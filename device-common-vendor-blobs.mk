@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/hw/sensors.santos10.so:system/vendor/lib/hw/sensors.santos10.so \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/topazsc_fw.bin:system/vendor/firmware/topazsc_fw.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/shisp_css15.bin:system/vendor/firmware/shisp_css15.bin \
