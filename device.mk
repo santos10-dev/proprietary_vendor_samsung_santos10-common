@@ -15,7 +15,14 @@
 #
 
 $(call inherit-product, device/samsung/santos10-common/device-common.mk)
+$(call inherit-product, device/samsung/santos10-common/device-common-gsm.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/samsung/santos10-common/overlay-gsm
+DEVICE_PACKAGE_OVERLAYS += device/samsung/santos10lte/overlay
+
+# RIL
+PRODUCT_PROPERTY_OVERRIDES += \
+    telephony.lteOnGsmDevice=1 \
+    ro.telephony.default_network=9
 
 $(call inherit-product, vendor/samsung/santos10lte/device-vendor-blobs.mk)
