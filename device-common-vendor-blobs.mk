@@ -30,6 +30,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/hw/memtrack.clovertrail.so:system/vendor/lib/hw/memtrack.clovertrail.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsepdrm.so:system/vendor/lib/libsepdrm.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libmixvbp.so:system/vendor/lib/libmixvbp.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libmixvbp_h264.so:system/vendor/lib/libmixvbp_h264.so \
+    vendor/samsung/santos10-common/proprietary/vendor/lib/libmixvbp_mpeg4.so:system/vendor/lib/libmixvbp_mpeg4.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libia_aiq.so:system/vendor/lib/libia_aiq.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libia_aiq_cp.so:system/vendor/lib/libia_aiq_cp.so \
