@@ -52,7 +52,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungRec_V02003.so:system/vendor/lib/lib_SamsungRec_V02003.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_Resampler_V01004b.so:system/vendor/lib/lib_Samsung_Resampler_V01004b.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so:system/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libsecril-client.so:system/vendor/lib/libsecril-client.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
