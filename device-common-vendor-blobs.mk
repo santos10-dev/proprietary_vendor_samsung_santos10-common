@@ -41,17 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libmfldadvci.so:system/vendor/lib/libmfldadvci.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libtbd.so:system/vendor/lib/libtbd.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/hw/audio.primary.clovertrail.so:system/vendor/lib/hw/audio.primary.clovertrail.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungearcare.so:system/vendor/lib/libsamsungearcare.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungRecord.so:system/vendor/lib/libsamsungRecord.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungRecord_ns.so:system/vendor/lib/libsamsungRecord_ns.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/libsamsungSoundbooster.so:system/vendor/lib/libsamsungSoundbooster.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungEP_V02014.so:system/vendor/lib/lib_SamsungEP_V02014.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungRecNR_V02023d.so:system/vendor/lib/lib_SamsungRecNR_V02023d.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_SamsungRec_V02003.so:system/vendor/lib/lib_SamsungRec_V02003.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_Resampler_V01004b.so:system/vendor/lib/lib_Samsung_Resampler_V01004b.so \
-    vendor/samsung/santos10-common/proprietary/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so:system/vendor/lib/lib_Samsung_SB_AM_V04005_20130729.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
