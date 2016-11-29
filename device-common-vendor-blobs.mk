@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/santos10-common/proprietary/vendor/lib/libtbd.so:system/vendor/lib/libtbd.so \
     vendor/samsung/santos10-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/santos10-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
-    vendor/samsung/santos10-common/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/fw_sst_08e7.bin:system/vendor/firmware/fw_sst_08e7.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/topazsc_fw.bin:system/vendor/firmware/topazsc_fw.bin \
     vendor/samsung/santos10-common/proprietary/vendor/firmware/shisp_css15.bin:system/vendor/firmware/shisp_css15.bin \
